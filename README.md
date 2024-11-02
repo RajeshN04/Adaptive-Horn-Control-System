@@ -29,7 +29,7 @@ BCM: The BCM receives the vehicle speed data from the ABS ECU. It uses this info
 
 Horn Control: The BCM according to the condition, sends a signal to the horn control module.
 
-Relay: The horn control module activates the appropriate relay, which in turn provides power to the selected horn pad.
+Relay: The horn control module activates the appropriate relay, which in turn provides power to the selected horn pad. The Relay used here can be either 4-Pin or 5-Pin.
 
 Horn Activation: The activated horn pad produces the desired horn sound.
 
